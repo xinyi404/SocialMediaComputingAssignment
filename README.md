@@ -1,4 +1,5 @@
 # Financial News Sentiment Analysis
+### By: Tan Xin Yi & Tang Yu Xuan 
 This project explores sentiment analysis on financial news headlines using Natural Language Processing (NLP), traditional machine learning (ML), and transformer-based deep learning models. The goal is to classify sentiment (positive, neutral, negative) from a retail investor’s perspective, enabling better understanding of market perception and its implications.
 
 ## Dataset
